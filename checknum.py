@@ -4,4 +4,4 @@ def checkNum(num):
     elif num==0:
         print("Num is zero");
     else:
-        pass
+        print("Num is Negative")
